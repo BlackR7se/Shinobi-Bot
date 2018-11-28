@@ -1,0 +1,2 @@
+# Shinobi-Bot
+private bot
